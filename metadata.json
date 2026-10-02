@@ -1,0 +1,7 @@
+{
+  "name": "Nusantara Maritime Fleet Manager",
+  "description": "Sistem Manajemen Perusahaan Pelayaran Nasional untuk Pengelolaan Armada Kapal, Jadwal Pelayaran, Manifes Kargo, dan Awak Kapal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
